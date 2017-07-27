@@ -11,6 +11,7 @@
     <properties>
         <hibernate.version>5.2.10.Final</hibernate.version>
     </properties>
+    
 
     <build>
         <plugins>
